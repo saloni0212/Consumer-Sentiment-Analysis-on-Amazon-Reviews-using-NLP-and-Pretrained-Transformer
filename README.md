@@ -1,0 +1,2 @@
+# Consumer-Sentiment-Analysis-on-Amazon-Reviews-using-NLP-and-Pretrained-Transformer
+Customer Sentiment Analysis refers to extracting and analyzing textual data to discern customers' underlying sentiments, attitudes, and opinions. To achieve this, there are 3 approaches : Lexicon-based, ML-based and Pre-Trained Transformer-based. This sentiment analysis is done using the third approach i.e. Pre-Trained Transformer-based approach.
