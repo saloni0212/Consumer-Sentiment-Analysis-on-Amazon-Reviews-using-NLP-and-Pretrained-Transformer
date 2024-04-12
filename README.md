@@ -5,10 +5,10 @@ Customer Sentiment Analysis refers to extracting and analyzing textual data to d
 This project aims to analyze consumer sentiments in Amazon reviews using Natural Language Processing (NLP) techniques. The project compares the performance of three pre-trained transformer models: VADER, RoBERTa, and DistilBERT.
 
 <h2>Project Structure</h2>
-data/: Contains the dataset used for sentiment analysis.<br>
-models/: Contains the pre-trained transformer models used for analysis.<br>
-notebooks/: Contains Jupyter notebooks for data preprocessing, model training, and evaluation.<br>
-results/: Contains the results of the sentiment analysis experiments.<br>
+Contains the dataset used for sentiment analysis.<br>
+Contains the pre-trained transformer models used for analysis.<br>
+Contains Jupyter notebooks for data preprocessing, model training, and evaluation.<br>
+Contains the results of the sentiment analysis experiments.<br>
 
 <h2>Requirements</h2>
 Python 3.x<br>
