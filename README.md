@@ -30,9 +30,6 @@ Compare the results<br>
 <h2>Results</h2>
 The results of the analysis show the comparative performance of VADER, RoBERTa, and DistilBERT in terms of polarity scores and graphs.<br>
 
-<h2>Conclusion</h2>
-Based on the results, it can be concluded that [add your conclusion here].<br>
-
 <h2>Contributors</h2>
 Saloni Mahadule<br>
 Sahil Thakur<br>
