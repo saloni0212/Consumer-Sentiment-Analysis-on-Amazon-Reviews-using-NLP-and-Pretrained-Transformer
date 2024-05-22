@@ -15,11 +15,9 @@ Python 3.x<br>
 Jupyter Notebook<br>
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, transformers<br>
 
-<h2>Installation</h2>
+<h2>Cloning</h2>
 Clone the repository: bash<br>
 Copy code: git clone https://github.com/your-username/Consumer-Sentiment-Analysis-on-Amazon-Reviews-using-NLP-and-Pretrained-Transformer.git<br>
-Install the required libraries:<br>
-Copy code: pip install -r requirements.txt<br>
 
 <h2>Usage</h2>
 Preprocess the data<br>
